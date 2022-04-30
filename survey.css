@@ -1,0 +1,64 @@
+body{
+        padding: 20px;;
+        min-width: 100%;
+        overflow-x: hidden;
+        height: 100vh;
+        margin-bottom:20px;
+}
+#last{
+        padding-left: 185px;
+
+}
+.sup{
+        color: red;
+}
+#email{
+        width: 425px;
+}
+i{
+        color: orange;
+}
+.des{
+        font-size: 12px;
+        margin-bottom: 25px;
+}
+
+.menu{
+        
+        display: flex;
+        justify-content:space-around;
+        flex-direction: row-reverse;
+        align-content: center;
+        width: 100%;
+}
+#firstname{
+        margin-right:15px;
+}
+table{
+ text-align:center;
+}
+th{
+        font-weight:normal;
+}
+.th{
+        text-align:left;     
+}
+label{
+        font-weight:bold;
+}
+.name{
+        font-weight:bold; 
+}
+#space{
+        margin-top: 25px;
+}
+.grey{
+        background-color: rgb(226, 220, 220);
+}
+#btn{
+        background-color: rgb(226, 220, 220);
+        margin-bottom:20px;
+}
+.radio{
+        font-weight: bold;
+}
